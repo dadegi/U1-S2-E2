@@ -234,7 +234,7 @@ me.skills.length = me.skills.length - 1; // È preferibile usare il metodo pop()
 console.log(me);
 
 /* ESERCIZIO 14
-  Scrivi del codice per creare un array inizialmente vuoto. Riempilo successivamente con i numeri da 1 a 10.
+  Scrivi del codice per creare un array inizialmente vuoto. Riempilo poi con i numeri da 1 a 10.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
